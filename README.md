@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, py, django, docker, postgres, html, sqlite" />
+    <img src="https://skillicons.dev/icons?i=git,py,django,docker,postgres,html,sqlite" />
   </a>
 </p>
 - Docker-compose
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask, fastapi" />
+    <img src="https://skillicons.dev/icons?i=flask,fastapi" />
   </a>
 </p>
 - sqlalchemy
