@@ -15,7 +15,7 @@
 
 ## ⚡️ Стэк технологий
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,django,docker,postgres,html,sqlite" />
   </a>
@@ -27,7 +27,7 @@
 
 ## ⚡️ Скоро
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask,fastapi" />
   </a>
