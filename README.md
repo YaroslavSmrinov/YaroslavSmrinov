@@ -39,5 +39,5 @@
 ### 🚀 GIT Статистика
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaroslavSmrinov&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="YaroslavSmrinov's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavSmrinov&line_height=27&layout=compacttext_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavSmrinov&line_height=27&layout=compact&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </p>
