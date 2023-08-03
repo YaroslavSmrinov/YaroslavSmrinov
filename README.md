@@ -29,11 +29,17 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka" />
+    <img src="https://skillicons.dev/icons?i=kafka, opencv" />
   </a>
 </p>
-- kafka
-- opencv2
+<ul>
+  <li>
+    Kafka
+  </li>
+  <li>
+    Opencv2
+  </li>
+</ul>
 
 ### 🚀 GIT Статистика
 <p align="center">
