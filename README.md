@@ -8,7 +8,7 @@
 
 
 ### Немного обо мне...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Люблю искать закономерности во всем, что нас окружает. Обожаю саморазвитие во всех возможных направлениях. Испытываю максимальное удовольствие от видимого результата работы на проектах <br/><br/>
+Могу принебречь качеством в обмен на скорость. Или временем в обмен на деньги. <br/><br/>
 
 
 
@@ -17,7 +17,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,django,docker,postgres,html,sqlite" />
+    <img src="https://skillicons.dev/icons?i=git,py,django,docker,postgres,html,sqlite,flask,fastapi" />
   </a>
 </p>
 - Docker-compose
@@ -29,11 +29,10 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=kafka" />
   </a>
 </p>
-- sqlalchemy
-- alembic
+- kafka
 - opencv2
 
 ### 🚀 GIT Статистика
